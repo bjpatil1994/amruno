@@ -8,3 +8,4 @@ shutilwhich
 pymysql
 python-jose[cryptography]
 python-multipart
+pydantic
