@@ -6,4 +6,5 @@ python-multipart
 passlib[bcrypt]
 shutilwhich
 pymysql
-python-jose
+python-jose[cryptography]
+python-multipart
